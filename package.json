@@ -1,5 +1,5 @@
 {
-  "name": "@duxweb/dux-refine",
+  "name": "@acring/dux-refine",
   "version": "0.16.4",
   "description": "🌲 Integrated UI based on refine and tdesign",
   "main": "dist/index.js",
